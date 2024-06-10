@@ -1,0 +1,9 @@
+# .streamlit/config.toml
+
+[theme]
+primaryColor="#FF4500"  # Lava Orange
+backgroundColor="#2E2E2E"  # Dark Ash
+secondaryBackgroundColor="#1C1C1C"  # Darker Ash
+textColor="#FF4500"  # White, for contrast against dark background
+font="sans serif"
+
