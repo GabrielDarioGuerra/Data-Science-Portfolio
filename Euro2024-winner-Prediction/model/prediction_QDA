@@ -1,0 +1,37 @@
+,home_team,away_team,rank_home_team,rank_away_team,prediction_label,prediction_score
+0,Germany,Scotland,0.5056206,-0.7945466,Draw,0.8958
+1,Germany,Hungary,0.5056206,-0.21669453,Draw,0.9115
+2,Scotland,Hungary,-0.7945466,-0.21669453,Away,0.5705
+3,Hungary,Switzerland,-0.21669453,0.36115757,Away,0.5247
+4,Scotland,Switzerland,-0.7945466,0.36115757,Away,0.6681
+5,Switzerland,Germany,0.36115757,0.5056206,Away,0.4248
+6,Spain,Croatia,0.93900967,0.6500836,Home,0.4305
+7,Spain,Italy,0.93900967,0.7945466,Home,0.4017
+8,Croatia,Italy,0.6500836,0.7945466,Away,0.4274
+9,Italy,Albania,0.7945466,-1.5168618,Home,0.7397
+10,Croatia,Albania,0.6500836,-1.5168618,Home,0.8169
+11,Albania,Spain,-1.5168618,0.93900967,Away,0.8763
+12,Slovenia,Denmark,-1.3723987,0.21669453,Away,0.784
+13,Slovenia,Serbia,-1.3723987,-0.5056206,Away,0.6859
+14,Denmark,Serbia,0.21669453,-0.5056206,Home,0.5318
+15,Serbia,England,-0.5056206,1.3723987,Away,0.7522
+16,Denmark,England,0.21669453,1.3723987,Away,0.6182
+17,England,Slovenia,1.3723987,-1.3723987,Home,0.8854
+18,Poland,Netherlands,-0.36115757,1.0834727,Away,0.6823
+19,Poland,Austria,-0.36115757,-0.07223151,Away,0.4794
+20,Netherlands,Austria,1.0834727,-0.07223151,Home,0.6149
+21,Austria,France,-0.07223151,1.6613247,Away,0.717
+22,Netherlands,France,1.0834727,1.6613247,Away,0.5372
+23,France,Poland,1.6613247,-0.36115757,Home,0.7839
+24,Romania,Ukraine,-1.0834727,0.07223151,Away,0.6968
+25,Slovakia,Ukraine,-1.2279357,0.07223151,Away,0.7327
+26,Belgium,Slovakia,1.5168618,-1.2279357,Home,0.8848
+27,Belgium,Romania,1.5168618,-1.0834727,Home,0.8679
+28,Slovakia,Romania,-1.2279357,-1.0834727,Away,0.5382
+29,Ukraine,Belgium,0.07223151,1.5168618,Away,0.6691
+30,Turkey,Georgia,-0.93900967,-1.6613247,Home,0.5569
+31,Turkey,Portugal,-0.93900967,1.2279357,Away,0.8119
+32,Georgia,Portugal,-1.6613247,1.2279357,Away,0.9116
+33,Portugal,Czech Republic,1.2279357,-0.6500836,Home,0.7589
+34,Georgia,Czech Republic,-1.6613247,-0.6500836,Away,0.7426
+35,Czech Republic,Turkey,-0.6500836,-0.93900967,Home,0.45
